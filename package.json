@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Swadhin425/deployHtml/issues"
   },
-  "homepage": "https://github.com/Swadhin425/deployHtml#readme"
+  "homepage": "https://github.com/Swadhin425/deployHtml#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
